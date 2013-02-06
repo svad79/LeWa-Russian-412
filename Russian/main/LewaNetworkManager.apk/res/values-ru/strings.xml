@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string name="app_name">Расходомер трафика</string>
-    <string name="app_summary">Расходомер трафика® LewaTek Limited.</string>
+    <string name="app_name">Firewall</string>
+    <string name="app_summary">Firewall® LewaTek Limited.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка...</string>
     <string name="no_applications">Нет приложений.</string>
     <string name="process_kernel_label">ОС Андроид</string>

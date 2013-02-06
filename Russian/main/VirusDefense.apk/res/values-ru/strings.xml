@@ -26,9 +26,9 @@
     <string name="defense_monitor_open">Монитор запущен</string>
     <string name="defense_monitor_close1">Монитор запущен частично</string>
     <string name="defense_monitor_close2">Неполная защита</string>
-    <string name="scan_counts">Проверено:</string>
-    <string name="scan_time">Время:</string>
-    <string name="viruse_counts">Заражено:</string>
+    <string name="scan_counts">Проверено: </string>
+    <string name="scan_time">Время: </string>
+    <string name="viruse_counts">Заражено: </string>
     <string name="caution_counts">Подозрительных:</string>
     <string name="scan_continue">Продолжать сканирование</string>
     <string name="scan_cancel">Отмена сканирования</string>
@@ -120,7 +120,7 @@
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
     <string name="day_concat">", "</string>
-    <string name="days">дня(-ней)</string>
-    <string name="hours">часов</string>
-    <string name="minutes">минут(ы)</string>
+    <string name="days"> дня(-ней)</string>
+    <string name="hours"> часов</string>
+    <string name="minutes"> минут(ы)</string>
 </resources>

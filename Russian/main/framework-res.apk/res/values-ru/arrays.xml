@@ -18,7 +18,7 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
-        <item>Другое</item>
+        <item>Другой</item>
         <item>Создать свой ярлык</item>
     </string-array>
     <string-array name="phoneTypes">

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Удалить выбранные элементы?</item>
+        <item quantity="one">Удалить выбранный элемент?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d выбрано</item>
         <item quantity="zero">%1$d выбрано</item>
