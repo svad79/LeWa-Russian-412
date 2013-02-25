@@ -149,6 +149,7 @@
     <string name="menu_setting">Настройки</string>
     <string name="menu_del_blacklist">Очистить черный список</string>
     <string name="menu_add_black">Добавить имя в черный список</string>
+    <string name="menu_add_black_prefix">Добавить номер в черный список</string>
     <string name="menu_del_whitelist">Очистить белый список</string>
     <string name="menu_add_white">Добавить имя в белый список</string>
     <string name="menu_del_msglist">Удалить заблокированные сообщения</string>

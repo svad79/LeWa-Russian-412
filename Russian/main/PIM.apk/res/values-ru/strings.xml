@@ -925,8 +925,8 @@
     <string name="error_code_label">"Код ошибки: "</string>
     <string name="menu_edit">Изменить</string>
     <string name="menu_delete_messages">Удалить сообщения</string>
-    <string name="menu_lock">Заблокировать</string>
-    <string name="menu_unlock">Разблокировать</string>
+    <string name="menu_lock">В избранное</string>
+    <string name="menu_unlock">Удалить</string>
     <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
     <string name="sim_delete">Удалить</string>
     <string name="sim_manage_messages_title">Текстовые сообщения на SIM-карте</string>

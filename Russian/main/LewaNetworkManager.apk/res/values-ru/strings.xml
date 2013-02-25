@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Firewall</string>
-    <string name="app_summary">Firewall® LewaTek Limited.</string>
+    <string name="app_summary">Data Meter© LeWaTek Limited.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка...</string>
     <string name="no_applications">Нет приложений.</string>
     <string name="process_kernel_label">ОС Андроид</string>
@@ -11,7 +11,7 @@
     <string name="mobile">2G/3G</string>
     <string name="wifi">WiFi</string>
     <string name="mobile_usage">Использование 2G/3G</string>
-    <string name="wifi_usage">Использование WiFi</string>	
+    <string name="wifi_usage">Использование WiFi</string>
     <string name="metered">Bg</string>
     <string name="card">Карта</string>
     <string name="zero">0B</string>
@@ -44,7 +44,7 @@
     <string name="pref_data_pack_summary">%1$s，всего:%2$s，с %3$s числа</string>
     <string name="pref_monthly_usage">Потрачено</string>
     <string name="pref_adjust_regularly">Настроить период измерения</string>
-    <string name="pref_data_warning">Настройка уровня предупреждения </string>
+    <string name="pref_data_warning">Настройка уровня предупреждения</string>
     <string name="pref_data_warning_prepend">"Когда инета останется "</string>
     <string name="pref_data_warning_append">" , следует предупредить меня"</string>
     <string name="pref_data_warning_unset">Пожалуйста, сначала установите норму инета.</string>
@@ -55,9 +55,9 @@
     <string name="widget_disabled_mobile">Передача данных отключена</string>
     <string name="widget_today_usage">Сегодня</string>
     <string name="widget_exceed">Превышение</string>
-    <string name="widget_remain">Еще</string>	
+    <string name="widget_remain">Еще</string>
     <string name="widget_data_pack_warning">Установите тарифный план</string>
-    <string name="notify_data_pack_title">Предупреждение о достижении порога </string>
+    <string name="notify_data_pack_title">Предупреждение о достижении порога</string>
     <string name="notify_data_pack_summary">@string/widget_data_pack_warning</string>
     <string name="permlab_manageNetworkPolicy">Управление сетевой политикой</string>
     <string name="permdesc_manageNetworkPolicy">Разрешить приложению управлять сетевой политикой и определять правила.</string>
