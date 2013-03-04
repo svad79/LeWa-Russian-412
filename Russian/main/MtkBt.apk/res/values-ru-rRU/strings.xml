@@ -346,4 +346,9 @@
     <string name="bt_share_openfile_message_unsupported_type">Неподдерживаемый тип файла: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">Файл не найден: %1$s</string>
     <string name="bt_share_openfile_confirm">OK</string>
+    <item type="string" name="APKTOOL_DUMMY_00c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00cb">false</item>
 </resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="record_your_message">Record your message</string>
+    <string name="message_recorded">Message recorded</string>
+    <string name="review_message">Review message</string>
+    <string name="recording">Recording</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="storage_is_full">Storage is full</string>
+    <string name="max_length_reached">Maximum length reached</string>
+    <string name="insert_sd_card">Has not been detected on your SD card, please confirm the insert SD card, and not through the USB connection of computer storage</string>
+    <string name="min_available">%d mins available</string>
+    <string name="sec_available">%ds available</string>
+    <string name="accept">Done</string>
+    <string name="discard">Discard</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format_with_hour" formatted="false">%02d:%02d:%02d</string>
+    <string name="timer_format_without_hour" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Your recordings</string>
+    <string name="audio_db_album_name">Audio recordings</string>
+    <string name="audio_db_playlist_name">My recordings</string>
+    <string name="error_sdcard_access">Unable to access SD card</string>
+    <string name="error_app_internal">Internal application error</string>
+    <string name="error_mediadb_new_record">Unable to save recorded audio</string>
+    <string name="error_app_recorder_occupied">Recorder is occupied by other application.</string>
+    <string name="unknown_artist_name">Unknown artist</string>
+    <string name="error_app_failed_title">Failed in recording</string>
+    <string name="tell_save_record_success">Save succeeded</string>
+    <string name="save_record">Save</string>
+    <string name="spaceIsLow_content">Your SDCard is running out of space. Stop recording or delete items from SDCard.</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename_record_file">Rename record file</string>
+    <string name="file_already_exists">File already exists</string>
+    <string name="select_recording_format">Select recording format</string>
+    <string name="recording_format_high">High</string>
+    <string name="recording_format_mid">Mid</string>
+    <string name="recording_format_low">Low</string>
+    <string name="three_mins_avail_total">3 mins available total</string>
+    <string name="recorder_can_not_be_used">Sound Recorder cannot be used right now.</string>
+    <string name="alert_delete_multiple">These items will be deleted</string>
+    <string name="alert_delete_single">This item will be deleted</string>
+    <string name="ok">OK</string>
+    <string name="delete">Delete</string>
+    <string name="deleting">Deleting</string>
+    <string name="no_recording_file">(No recording file)</string>
+    <string name="recording_file_list">Recording file list</string>
+    <string name="recording_paused">Recording paused</string>
+    <string name="record_title">Record</string>
+    <string name="play_title">Play</string>
+    <string name="time_zero">00:00</string>
+    <string name="delete_selected">Selected %s</string>
+    <string name="duration_timer_format_with_hour" formatted="false">%02dH%02dM%02dS</string>
+    <string name="duration_timer_format_without_hour" formatted="false">%02dM%02dS</string>
+    <string name="is_recording_can_not_use_play_function">Being recorded, you can not use the play function.</string>
+    <string name="is_playing_can_not_use_record_function">The audio file is playing, you can not use the recording function.</string>
+</resources>

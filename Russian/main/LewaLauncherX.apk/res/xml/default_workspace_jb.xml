@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites
+  xmlns:launcher="http://schemas.android.com/apk/res/com.lewa.launcher">
+    <favorite launcher:className="com.lewa.PIM.contacts.activities.DialtactsActivity" launcher:packageName="com.lewa.PIM" launcher:container="-101" launcher:screen="-1" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.lewa.PIM.contacts.activities.ContactsEntryActivity" launcher:packageName="com.lewa.PIM" launcher:container="-101" launcher:screen="-1" launcher:x="1" launcher:y="0" />
+    <shortcut launcher:container="-101" launcher:screen="-1" launcher:x="2" launcher:y="0" launcher:icon="@drawable/drawer_icon" launcher:title="@string/drawer_title" launcher:uri="\#Intent;action=com.lewa.launcher.SHOW_DRAWER;end" />
+    <favorite launcher:className="com.UCMobile.main.UCMobile" launcher:packageName="com.UCMobile" launcher:container="-101" launcher:screen="-1" launcher:x="3" launcher:y="0" />
+    <favorite launcher:className="com.lewa.PIM.contacts.activities.MessageActivity" launcher:packageName="com.lewa.PIM" launcher:container="-101" launcher:screen="-1" launcher:x="4" launcher:y="0" />
+    <appwidget launcher:className="com.lewa.search.widget.SearchWidgetProvider" launcher:packageName="com.lewa.search" launcher:screen="0" launcher:x="0" launcher:y="0" launcher:spanX="4" launcher:spanY="1" />
+    <appwidget launcher:className="com.android.alarmclock.AnalogAppWidgetProvider" launcher:packageName="com.android.deskclock" launcher:screen="1" launcher:x="1" launcher:y="0" launcher:spanX="2" launcher:spanY="2" />
+    <appwidget launcher:className="com.lewa.cleanmemory.CleanWidget" launcher:packageName="com.lewa.cleanmemory" launcher:screen="1" launcher:x="0" launcher:y="3" launcher:spanX="1" launcher:spanY="1" />
+    <favorite launcher:className="com.android.camera.CameraLauncher" launcher:packageName="com.android.gallery3d" launcher:screen="1" launcher:x="1" launcher:y="3" />
+    <favorite launcher:className="com.android.gallery3d.app.Gallery" launcher:packageName="com.android.gallery3d" launcher:screen="1" launcher:x="2" launcher:y="3" />
+    <favorite launcher:className="com.lewa.themechooser.ThemeChooser" launcher:packageName="com.lewa.themechooser" launcher:screen="1" launcher:x="3" launcher:y="3" />
+    <folder launcher:screen="2" launcher:x="0" launcher:y="0" launcher:title="@string/recent_installed_apps" />
+    <folder launcher:screen="2" launcher:x="1" launcher:y="0" launcher:title="@string/system_tool_folder">
+        <favorite launcher:className="com.lewa.filemanager.FileManagerMainActivity" launcher:packageName="com.lewa.filemanager" />
+        <favorite launcher:className="com.lewa.spm.activity.SPMActivity" launcher:packageName="com.lewa.spm" />
+        <favorite launcher:className="com.android.providers.downloads.ui.DownloadList" launcher:packageName="com.android.providers.downloads.ui" />
+        <favorite launcher:className="com.lewa.search.LewaSearchActivity" launcher:packageName="com.lewa.search" />
+        <favorite launcher:className="com.android.deskclock.DeskClockMainActivity" launcher:packageName="com.android.deskclock" />
+        <favorite launcher:className="com.lewa.flashlight.LewaMainActivity" launcher:packageName="com.lewa.flashlight" />
+        <favorite launcher:className="com.mediatek.FMRadio.LewaFMRadioActivity" launcher:packageName="com.mediatek.FMRadio" />
+        <favorite launcher:className="com.android.soundrecorder.LewaSoundRecordMainActivity" launcher:packageName="com.android.soundrecorder" />
+        <favorite launcher:className="com.android.calculator2.Calculator" launcher:packageName="com.android.calculator2" />
+        <favorite launcher:className="com.lewa.compass.MainActivity" launcher:packageName="com.lewa.compass" />
+        <favorite launcher:className="org.dayup.gnotes.GNotesListActivity" launcher:packageName="org.dayup.gnotes.lewa" />
+        <favorite launcher:className="com.baidu.voiceassistant.VoiceAssistantActivity" launcher:packageName="com.baidu.voiceassistant" />
+    </folder>
+    <favorite launcher:className="com.lewa.security.SecurityActivity" launcher:packageName="com.lewa.security" launcher:screen="2" launcher:x="2" launcher:y="0" />
+    <favorite launcher:className="com.android.settings.LewaSettings" launcher:packageName="com.android.settings" launcher:screen="2" launcher:x="3" launcher:y="0" />
+    <favorite launcher:className="com.lewa.updater.UpdaterActivity" launcher:packageName="com.lewa.updater" launcher:screen="2" launcher:x="0" launcher:y="1" />
+    <favorite launcher:className="com.uucun50000868.android.cms.activity.MarketLoginAndRegisterActivity" launcher:packageName="com.uucun50000868.android.cms" launcher:screen="2" launcher:x="1" launcher:y="1" />
+    <favorite launcher:className="com.baidu.BaiduMap.BaiduMap" launcher:packageName="com.baidu.BaiduMap" launcher:screen="2" launcher:x="2" launcher:y="1" />
+    <favorite launcher:className="com.when.android.calendar365.CalendarMain" launcher:packageName="com.when.android.calendar365" launcher:screen="2" launcher:x="3" launcher:y="1" />
+    <favorite launcher:className="com.lewa.player.ui.outer.MusicMainEntryActivity" launcher:packageName="com.lewa.player" launcher:screen="3" launcher:x="0" launcher:y="0" />
+    <favorite launcher:className="com.chaozh.iReader.ui.activity.WelcomeActivity" launcher:packageName="com.chaozh.iReaderFree15" launcher:screen="3" launcher:x="1" launcher:y="0" />
+    <shortcut launcher:screen="3" launcher:x="2" launcher:y="0" launcher:icon="@drawable/ic_lewaos_bbs" launcher:title="@string/lewaos_bbs" launcher:uri="http://bbs.lewaos.com/forum.php?mobile=yes#Intent;action=android.intent.action.VIEW;end" />
+</favorites>
