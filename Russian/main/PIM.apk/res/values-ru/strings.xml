@@ -1478,4 +1478,5 @@ In four, the opening of free information service needs to send a message to the 
     <string name="store_in_google_account">Хранить в аккаунте Google</string>
     <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
     <string name="no_content_saved">Информация не сохранена!</string>
+	<string name="menu_call_log_filter">Журнал вызовов</string>	
 </resources>

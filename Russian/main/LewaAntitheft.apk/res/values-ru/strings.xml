@@ -116,4 +116,5 @@
     <string name="prompt_user_info_hint">Введите ваше имя</string>
     <string name="prompt_close_guide">Вы точно хотите выйти из помощника?</string>
     <string name="pref_antitheft_on_title">Включить Антивор</string>
+	<string name="security_number_changed＿success">Пароль был успешно изменен!</string>	
 </resources>
