@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="config_workspaceDefaultTransitionEffect">Standard</string>
+    <string name="config_workspaceDefaultGridSize">4|4</string>
     <string name="application_name">Launcher</string>
     <string name="uid_name">Android Core Apps</string>
     <string name="folder_name">Folder</string>
@@ -33,8 +34,11 @@
     <string name="title_select_application">Select application</string>
     <string name="all_apps_button_label">Apps</string>
     <string name="all_apps_home_button_label">Home</string>
+    <string name="delete_zone_label_workspace">Удалить</string>
+    <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_target_label">Remove</string>
-    <string name="uninstall_target_label">Uninstall</string>
+    <string name="delete_target_uninstall_label">Удалить</string>
+    <string name="info_target_label">Информация о приложении</string>
     <string name="accessibility_search_button">Search</string>
     <string name="accessibility_voice_search_button">Voice Search</string>
     <string name="accessibility_all_apps_button">Applications</string>
@@ -69,6 +73,15 @@
     <string name="workspace_scroll_format">Workspace %1$d of %2$d</string>
     <string name="apps_customize_apps_scroll_format">Apps page %1$d of %2$d</string>
     <string name="apps_customize_widgets_scroll_format">Widgets page %1$d of %2$d</string>
+    <string name="workspace_cling_title">Чувствуйте себя как дома</string>
+    <string name="workspace_cling_move_item">Вы можете поместить свои любимые приложения сюда.</string>
+    <string name="workspace_cling_open_all_apps">Чтобы увидеть все ваши приложения, листайте по кругу.</string>
+    <string name="all_apps_cling_title">Выбрать некоторые приложения</string>
+    <string name="all_apps_cling_add_item">Чтобы добавить приложение на рабочий стол, коснитесь и удерживайте его.</string>
+    <string name="folder_cling_title">Организовать ваши папки с приложениями</string>
+    <string name="folder_cling_move_item">Чтобы переместить приложение, коснитесь &amp; держите его.</string>
+    <string name="folder_cling_create_folder">Чтобы создать новую папку на рабочем столе, наложите одно приложение поверх другого.</string>
+    <string name="cling_dismiss">OK</string>
     <string name="cannot_add_more_screen">"You can't add more screens"</string>
     <string name="editmode_tip">You have reached the minimum number of screens and cannot delete any more</string>
     <string name="title_dialog_xml">LeWa Home Settings</string>
@@ -78,6 +91,8 @@
     <string name="menu_lewapond">LeWa Account</string>
     <string name="menu_desktop_settings">Home settings</string>
     <string name="pref_desktop_effect">Desktop Transition Effect</string>
+    <string name="pref_screen_layout">Screen Layout</string>
+    <string name="pref_screen_layout_summary">Choose the screen layout of desktop icons</string>
     <string name="pref_desktop_effect_summary">Scrolling effect when scrolling homescreens</string>
     <string name="pref_title_screen_loop">Circular desktop</string>
     <string name="pref_summary_screen_loop">When the last desktop panel is reached swiping once more jumps to the first panel</string>
@@ -122,4 +137,8 @@
     <string name="system_groupname_tool">Tool</string>
     <string name="system_groupname_other">Other</string>
     <string name="lewaos_bbs">Lewa BBS</string>
+    <string name="menu_scene">scene</string>
+    <string name="drawer_title">Список приложений</string>
+    <string name="uninstall_widget_text">Виджет не может быть удален.</string>
+    <string name="uninstall_target_label">卸载</string>
 </resources>

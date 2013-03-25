@@ -110,6 +110,9 @@
     <string name="world_clock_empty_text">Press below button to Add Alarm</string>
     <string name="add_city">Add Clock</string>
     <string name="could_not_add_more_lap_time">Sorry,you can lap 99 numbers most!</string>
+    <string name="menu_actionbar_selected_items">已选定%s个</string>
+    <string name="menu_multichoice_select_all">全选</string>
+    <string name="menu_multichoice_clear_select">取消全选</string>
     <string name="repeat_everyday">每天</string>
     <string name="repeat_none">无重复</string>
 </resources>

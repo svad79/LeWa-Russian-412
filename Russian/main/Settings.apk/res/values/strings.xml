@@ -384,6 +384,12 @@ Touch the Add contacts button to select the contacts you want to bind to this SI
     <string name="tethered_ipv4">(IPv6 unavailable)</string>
     <string name="tethering_apn_settings_title">APN settings</string>
     <string name="tethering_apn_settings_summary">Configure APN for tethering</string>
+    <string name="data_default_sim_title">默认上网</string>
+    <string name="voice_sms_default_sim_title">默认拨号/发信息</string>
+    <string name="fast_mode">极速模式</string>
+    <string name="fast_mode_title">极速拨号/发信息</string>
+    <string name="fast_mode_summary">开启可体验极速智能的拨号和发信息</string>
+    <string name="sim_displayname_too_long">最多可输入8个字符</string>
     <string name="header_lewa_account_info">账户信息</string>
     <string name="header_lewa_account_info_nickname">昵称:</string>
     <string name="header_lewa_account_info_usergroup">用户组:</string>
@@ -2207,6 +2213,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="root_access_all">Apps and ADB</string>
     <string name="media_volume_description">Media(Music、Video、Game etc)</string>
     <string name="system_volume_description">System(Photograph、Screenshot、ButtonClick)</string>
+    <string name="sim_china_mobile">中国移动</string>
+    <string name="sim_china_telecom">中国电信</string>
+    <string name="sim_china_unicom">中国联通</string>
     <string name="guide_sim_china_mobile">"China Mobile
 
  GSM
@@ -2219,6 +2228,27 @@ Since data usage is measured by your phone, and your carrier may account for usa
 
  WCDMA
 "</string>
+	<string name="double_card_setting_title">Добро пожаловать</string>
+	<string name="double_card_setting_msg">Всего три шага настройки</string>
+	<string name="start_setting">Вперед</string>
+    <string name="gemini_data_connection_and_video_call">数据连接/视频电话</string>
+	<string name="skip_setting">Пропустить</string>
+	<string name="previous_setp">Предыдущий</string>
+	<string name="next_setp">Следующий</string>
+	<string name="use_for_send_msg">Отправлять SMS/MMS</string>
+	<string name="no_change_favorite">C какой SIM отправлять сообщения?</string>
+	<string name="use_for_call">Совершать звонки</string>
+	<string name="no_change_style">С какой SIM совершать звонки?</string>
+	<string name="use_for_internet">Для интернета</string>
+	<string name="use_phone_efficient">С какой SIM выходить в интернет?</string>
+	<string name="guide_complete">Выполнено!</string>
+	<string name="slide_hint_msg">Листать для следующих настроек</string>
+	<string name="try_title">Попробовать</string>
+	<string name="try_msg">Нажмите и перетащите влево</string>
+	<string name="success_msg">Поздравляю! Вы изучили Классическую модель.</string>
+	<string name="remeber_head">Запомните</string>
+	<string name="remeber_tail">перетащить влево</string>
+	<string name="default_gprs_title">Выберите SIM-карту по умолчанию для GPRS</string>
     <string name="wifi_priority_label">优先级</string>
     <string name="wifi_priority_settings_label">优先级设定</string>
     <string name="wifi_configured_ap_list">已保存的接入点列表</string>

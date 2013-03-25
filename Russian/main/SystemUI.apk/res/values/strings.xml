@@ -2,8 +2,8 @@
 <resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="status_bar_date_formatter">"%2$s
-%1$s"</string>
+    <string name="status_bar_date_formatter">"%1$s
+%2$s"</string>
     <string name="gemini_default_sim_always_ask">Always ask</string>
     <string name="accessibility_phone_four_bars">Phone four bars.</string>
     <string name="sim_switch_tip">This SIM was set as default SIM card for %s. Hold and drag down the Status Bar to change the default SIM card.</string>
@@ -227,4 +227,6 @@ Use only the supplied charger."</string>
     <string name="title_toggle_gemini_data">Data card</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="recent_noapp">No recent apps</string>
+    <string name="accessibility_rotation_lock_on_landscape">屏幕锁定为横向模式。</string>
+    <string name="accessibility_rotation_lock_on_portrait">屏幕锁定为纵向模式。</string>
 </resources>
