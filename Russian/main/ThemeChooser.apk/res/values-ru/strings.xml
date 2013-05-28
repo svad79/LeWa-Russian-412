@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="configure_wallpaper">Настройки…</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+    <string name="wallpaper_cancel">Отмена</string>
+    <string name="system_live_wallpaper">system live wallpaper can not been deleted</string>
+    <string name="delete_live_wallpaper_success">delete live wallpaper success</string>
+    <string name="live_wallpaper_delete_title">delete live wallpaper</string>
+    <string name="live_wallpaper_delete">are you sure delete the live wallpaper</string>
     <string name="theme_local">Локальная</string>
     <string name="theme_online">Онлайн</string>
     <string name="theme_customize">Настроить</string>
@@ -19,7 +27,7 @@
     <string name="switching_to_wallpaper">Применение обоев%s…</string>
     <string name="item_count">%1$d/%2$d</string>
     <string name="dialog_theme_error_title">Ошибка темы</string>
-    <string name="dialog_missing_host_density_msg">"Извините, в этой теме отсутствуют ресурсы для вашего размера экрана."</string>
+    <string name="dialog_missing_host_density_msg">Извините, в этой теме отсутствуют ресурсы для вашего размера экрана.</string>
     <string name="dialog_missing_theme_package_scope_msg">Эта тема была неправильно скомпилирована и не может быть применена. Пожалуйста, сообщите о проблеме автору темы.</string>
     <string name="dialog_apply_anyway_btn">Применить все равно</string>
     <string name="dialog_bummer_btn">Жаль</string>
@@ -37,24 +45,24 @@
     <string name="theme_network_error_msg">Для загрузки темы необходимо сетевое подключение, пожалуйста, включите Wi-Fi</string>
     <string name="theme_network_set">Выбрать</string>
     <string name="theme_network_remind_title">Сетевые предложения</string>
-    <string name="theme_network_remind_msg">"Ваш Wi-Fi не открывается, предлагаю открыть его"</string>
+    <string name="theme_network_remind_msg">Ваш Wi-Fi не открывается, предлагаю открыть его</string>
     <string name="theme_ignore">Игнорировать</string>
     <string name="theme_customize_part">Настройка элементов темы</string>
     <string name="download_or_unzip_fail">Ошибка загрузки</string>
     <string name="percent">%s%%</string>
     <string name="download_success">Загрузка завершена</string>
-    <string name="theme_model_lockscreen_wallpaper">LockScreen WallPaper</string>
-    <string name="theme_model_wallpaper">WallPaper</string>
-    <string name="theme_model_lockscreen_style">LockScreen Style</string>
-    <string name="theme_model_icon_style">Icon Style</string>
-    <string name="theme_model_launcher">Launcher Style</string>
-    <string name="theme_model_boots">BootAnimation</string>
-    <string name="theme_model_fonts">Fonts</string>
-    <string name="theme_online_end_view">"Если вам не нравится, попробуйте настроить тему"</string>
+    <string name="theme_model_lockscreen_wallpaper">Обои экрана блокировки</string>
+    <string name="theme_model_wallpaper">Обои</string>
+    <string name="theme_model_lockscreen_style">Стиль экрана блокировки</string>
+    <string name="theme_model_icon_style">Стиль иконок</string>
+    <string name="theme_model_launcher">Стиль лаунчера</string>
+    <string name="theme_model_boots">Анимация загрузки</string>
+    <string name="theme_model_fonts">Шрифты</string>
+    <string name="theme_online_end_view">Если вам не нравится, попробуйте настроить тему</string>
     <string name="theme_local_end_view">Перейти к онлайн темам</string>
     <string name="theme_no_data">Нет данных</string>
-    <string name="delete_system_theme">"Системная тема не может быть удалена"</string>
-    <string name="delete_using_theme">"Текущая тема не может быть удалена"</string>
+    <string name="delete_system_theme">Системная тема не может быть удалена</string>
+    <string name="delete_using_theme">Текущая тема не может быть удалена</string>
     <string name="custom_lockscreen">экран блокировки</string>
     <string name="custom_desktop">рабочий стол</string>
     <string name="custom_system">система</string>
@@ -70,6 +78,7 @@
     <string name="apply_toast">Тема успешно установлена! Выберите ее снова для применения!</string>
     <string name="no_sdcard">Пожалуйста, вставьте SD карту и попробуйте еще раз</string>
     <string name="filemanager_can_not_find">Файловый менеджер не найден!</string>
+    <string name="can_not_find_app">Не удается найти приложение!</string>
     <string name="import_other_app">Импорт из других приложений</string>
     <string name="other_uri">другое</string>
     <string name="theme_count">Эта тема содержит %s модулей</string>
@@ -91,8 +100,11 @@
     <string name="theme_system_app_online">Онлайн</string>
     <string name="theme_font_local">Локальная</string>
     <string name="theme_font_online">Онлайн</string>
+    <string name="live_wallpaper_local">Локальная</string>
+    <string name="live_wallpaper_online">Онлайн</string>
     <string name="theme_info_detail">Детали</string>
     <string name="sdcardfull">SD карта переполнена, невозможно загрузить миниатюру</string>
+    <string name="sdcard_removed">SD карта извлечена, не могу загрузить миниатюру</string>
     <string name="init_install_theme">Инициализация темы, пожалуйста, подождите</string>
     <string name="apply_font">применить шрифт</string>
     <string name="apply_font_success">шрифты установлены. Необходима перезагрузка</string>
@@ -103,7 +115,19 @@
     <string name="theme_version">версия:</string>
     <string name="theme_date">дата:</string>
     <string name="theme_introduction">описание:</string>
+    <string name="theme_download_count">загрузки</string>
     <string name="theme_name">имя темы:</string>
     <string name="theme_download">скачать</string>
     <string name="theme_next">дальше</string>
+    <string name="network_closed">Сеть отключена!</string>
+    <string name="set_network">настройка сети</string>
+    <string name="desk_wallpaper_change">обои для рабочего стола</string>
+    <string name="lockscreen_wallpaper_change">Обои экрана блокировки</string>
+    <string name="dynamic_wallpaper_change">живые обои</string>
+    <string name="icon_change">Значки</string>
+    <string name="font_change">Шрифты</string>
+    <string name="lockscreen_change">Экран блокировки</string>
+    <string name="systemapp_change">Темы оформления</string>
+    <string name="some_live_wallpaper">Массивные обои высокой четкости</string>
+    <string name="live_wallpaper">живые обои</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Руководство</string>
     <string name="title_activity_guide_index">Руководство</string>
     <string name="title_basic_motion">Операции</string>
@@ -52,7 +52,7 @@
     <string name="explain_notification_bar_1">Уведомления появляются в левой части панели уведомлений (находится сверху), перетащите панель вниз для просмотра уведомлений.</string>
     <string name="explain_notification_bar_2">Вы может просмотреть содержимое карты памяти в режиме USB диска после подключения телефона к компьютеру.</string>
     <string name="explain_notification_bar_3">Очень удобно управлять большим количеством переключателей в панели уведомлений.</string>
-    <string name="explain_notification_bar_4">Нажмите на "Еще" и настройте переключатели по своему желанию.</string>
+    <string name="explain_notification_bar_4">Нажмите на Еще и настройте переключатели по своему желанию.</string>
     <string name="title_phone_1">Звонки с двумя SIM картами</string>
     <string name="title_phone_2">Смена SIM для звонка</string>
     <string name="title_phone_3">Поиск контактов</string>
@@ -65,7 +65,7 @@
     <string name="explain_phone_3">Контакты можно искать вводом имени или первых букв.</string>
     <string name="explain_phone_4">Частоиспользуемые контакты можно искать, вводя их имена на клавиатуре.</string>
     <string name="explain_phone_5">Во время звонка перетащите круг вверх и выберите ответное сообщение (для выключение звука нажмите верхнюю клавишу громкости).</string>
-    <string name="explain_phone_6">Запись разговора может быть совершена, если во время разговора нажать кнопку "Еще"</string>
+    <string name="explain_phone_6">Запись разговора может быть совершена, если во время разговора нажать кнопку Еще</string>
     <string name="explain_phone_7">Удерживайте запись звонков в режиме редактирования, выберите элементы и удалите их.</string>
     <string name="title_contact_1">Фамилия, имя</string>
     <string name="title_contact_2">Фото контакта</string>
@@ -90,7 +90,7 @@
     <string name="explain_SMS_1">Для отправки сообщения можно изменить SIM карту нажатием и сдвигом влево иконки с трубкой.</string>
     <string name="explain_SMS_2">Адрес может добавлен в адресной строке нажатием иконки справа.</string>
     <string name="explain_SMS_3">Быстрый выбор контактов осуществляется нажатием на имени или номере в адресной строке.</string>
-    <string name="explain_SMS_4">Информацию о контакте можно добавить в сообщения выбором "Контакты" в меню вложений.</string>
+    <string name="explain_SMS_4">Информацию о контакте можно добавить в сообщения выбором Контакты в меню вложений.</string>
     <string name="explain_SMS_5">Фото, видео, аудио и другие файлы могут быть вложены в сообщение в меню вложений.</string>
     <string name="explain_SMS_6">В избранных сообщениях можно выбрать готовые СМС для быстрой отправки.</string>
     <string name="explain_SMS_7">Сообщение может быть добавлено в избранное нажатием на него.</string>
@@ -99,7 +99,7 @@
     <string name="title_safety_intercept_2">Добавление в черный список</string>
     <string name="title_safety_intercept_3">Черный и белый списки</string>
     <string name="explain_safety_intercept_1">Система может перехватывать звонки автоматически, если вы выберете “Перехват беспокоящих звонков” в настройках.</string>
-    <string name="explain_safety_intercept_2">Нажмите на фото контакта в истории звонков или СМС, выберите "Добавить в черный список", этот номер будет заблокирован.</string>
+    <string name="explain_safety_intercept_2">Нажмите на фото контакта в истории звонков или СМС, выберите Добавить в черный список, этот номер будет заблокирован.</string>
     <string name="explain_safety_intercept_3">Черные и белые списки можно создать в перехватчике.</string>
     <string name="title_music_1">Эквалайзер</string>
     <string name="title_music_2">Изменение информации о песне</string>
@@ -130,7 +130,7 @@
     <string name="explain_mobile_security_5">Вы можете удаленно управлять телефоном после его кражи.</string>
     <string name="explain_mobile_security_6">Есть четыре способа, которые помогут вам вернуть потерянный мобильный.</string>
     <string name="explain_mobile_security_7">Существует функция, которая может заблокировать телефон автоматически, поэтому вор не сможет использовать его полностью.</string>
-    <string name="explain_mobile_security_8">Есть четыре команды, которые вы можете выбрать при нажатии кнопки "Поиск прямо сейчас" в интерфейсе управления.</string>
+    <string name="explain_mobile_security_8">Есть четыре команды, которые вы можете выбрать при нажатии кнопки Поиск прямо сейчас в интерфейсе управления.</string>
     <string name="title_theme_choose_1">Онлайн</string>
     <string name="title_theme_choose_2">Смена темы</string>
     <string name="title_theme_choose_3">Настройка</string>
@@ -144,7 +144,7 @@
     <string name="explain_flow_monitoring_1">Расходомер мониторит весь трафик, синхронизирует с провайдером (не для Росии), предупреждает об окончании лимита.</string>
     <string name="explain_flow_monitoring_2">Вы можете просмотреть детализацию трафика в межсетевом экране.</string>
     <string name="explain_flow_monitoring_3">Всем приложениям можно разграничить доступ по 2G/3G и WiFi.</string>
-    <string name="explain_flow_monitoring_4">Скорость скачивания может быть отображена в панели уведомления при включении "Показывать скорость сети" в настройках статусбара.</string>
+    <string name="explain_flow_monitoring_4">Скорость скачивания может быть отображена в панели уведомления при включении Показывать скорость сети в настройках статусбара.</string>
     <string name="title_electricity_management_1">Энергосбережение</string>
     <string name="title_electricity_management_2">Power+ в панеле уведомлений</string>
     <string name="title_electricity_management_3">Умное сбережение</string>
@@ -164,7 +164,7 @@
     <string name="title_system_1">Диспетчер задач-1</string>
     <string name="title_system_2">Диспетчер задач-2</string>
     <string name="title_system_3">Размер шрифта</string>
-    <string name="explain_system_1">Для просмотра последних открытых приложение удерживайте кнопку "Домой". Нажмите кнопку снизу для очистки списка.</string>
+    <string name="explain_system_1">Для просмотра последних открытых приложение удерживайте кнопку Домой. Нажмите кнопку снизу для очистки списка.</string>
     <string name="explain_system_2">Сдвигом влево или вправо можно закрыть задачу, иконка блокировка заблокирует закрытие приложения.</string>
     <string name="explain_system_3">В Параметрах системы - Экран можно изменить размер шрифта.</string>
 </resources>

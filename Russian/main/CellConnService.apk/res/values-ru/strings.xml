@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="app_name">CellConnectionService</string>
     <string name="button_ok">ОК</string>
     <string name="button_cancel">Отмена</string>
     <string name="confirm_radio_title">SIM-карта выключена</string>
     <string name="confirm_radio_msg">%1$s сейчас выключена. Включить эту SIM-карту?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Flight mode is on and</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s is now turned off. Would you like to turn off the flight mode and turn on this SIM card?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Flight mode is on. Would you like to turn off the flight mode?</string>
     <string name="confirm_radio_msg_single">Сейчас включен режим «В самолете», отключить его?</string>
     <string name="confirm_pin_title">Блокировка PIN-кода</string>
     <string name="confirm_pin_msg">SIM-карта, которую вы собираетесь использовать, заблокирована. Разблокировать карту?</string>
-    <string name="confrim_simmelock_title">Блокировка SIM-карты ME</string>
     <string name="confirm_simmelock_msg">Слот SIM-карты, которую вы собираетесь использовать, заблокирован. Разблокировать слот?</string>
     <string name="confirm_fdn_title">Фиксированный набор включен</string>
     <string name="confirm_fdn_msg">Фиксированный набор номеров включен.</string>
@@ -26,5 +28,5 @@
     <string name="confirm_permit_roaming_fail">Вы отключили это действие для SIM-карты в роуминге</string>
     <string name="confirm_sim_locked_message">SIM-карта безвозвратно заблокирована.</string>
     <string name="confirm_slot_locked_message">Гнездо заблокировано навсегда.</string>
-    <string name="confirm_disable_lbutton">Отключить</string>
+    <string name="confrim_simmelock_title">Блокировка SIM-карты ME</string>
 </resources>

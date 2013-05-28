@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <array name="t9_sort_entries">
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="t9_sort_entries">
         <item>@string/t9_sort_name</item>
         <item>@string/t9_sort_number</item>
-    </array>
+    </string-array>
     <string-array name="t9_sort_values">
         <item>1</item>
         <item>2</item>
     </string-array>
-    <array name="t9_map">
+    <string-array name="t9_map">
         <item>0</item>
         <item>1</item>
         <item>@string/t9_map_row_2</item>
@@ -22,7 +22,7 @@
         <item>*</item>
         <item>\#</item>
         <item>+</item>
-    </array>
+    </string-array>
     <string-array name="default_smiley_texts">
         <item>:-)</item>
         <item>:-(</item>
@@ -41,7 +41,7 @@
         <item>:-X</item>
         <item>:-D</item>
         <item>o_O</item>
-        <item>&amp;lt;3</item>
+        <item>&amp;amp;amp;amp;amp;amp;lt;3</item>
         <item>x-(</item>
         <item>:-/</item>
         <item>:-I</item>

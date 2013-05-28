@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="app_name">Музыка</string>
     <string name="videobrowserlabel">Видео</string>
     <string name="videos_title">Видео</string>
@@ -176,10 +176,10 @@
     <string name="shake_degree_common" />
     <string name="shake_degree_excited" />
     <string name="shake_degree_force">Сильнее</string>
-    <string name="id3_lable">Редактирование ID3 песни</string>
     <string name="setting_show_spectrum">Показать спектр</string>
     <string name="setting_show_spectrum_summary">Показать ритм музыки, закрытие повысит производительность</string>
     <string name="setting_show_spectrum_key">isShowSpectrum</string>
+    <string name="id3_lable">Редактирование ID3 песни</string>
     <string name="more">Больше</string>
     <string name="id3_empty">пустой</string>
     <string name="click_to_shuffle">Случайное воспроизведение</string>

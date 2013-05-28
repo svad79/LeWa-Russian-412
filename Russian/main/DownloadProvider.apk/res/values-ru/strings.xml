@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="download_title">Загрузки</string>
     <string name="cancel">Отмена</string>
     <string name="ok">OK</string>
@@ -39,4 +39,12 @@
     <string name="button_cancel_download">Отмена</string>
     <string name="button_start_now">Запустить</string>
     <string name="download_percent">%d%%</string>
+    <string name="notification_title">%1$d задание загружается</string>
+    <string name="notification_title_pause">%1$d задание приостановлено</string>
+    <string name="notification_info_pause">пауза</string>
+    <string name="notification_info_wait_for_retry">ожидание переподключения</string>
+    <string name="notification_info_wait_for_network">ожидание сети</string>
+    <string name="notification_info_wait_for_wlan">ожидание wlan</string>
+    <string name="notification_info_peding">ожидание</string>
+    <string name="notification_info_fail">ошибка</string>
 </resources>

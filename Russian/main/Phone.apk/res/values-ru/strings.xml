@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="onscreenHangupAll">«Повесить» все телефонные трубки</string>
     <string name="onscreenHangupHolding">Удержание режима «повешенной» трубки</string>
     <string name="onscreenHangupActiveAndAnswerWaiting">Режим «повешенной» трубки активен, ожидание ответа</string>
@@ -150,9 +150,6 @@
     <string name="vt_media_video_fail">Плохое качество видеосвязи. Видеозвонок прерван</string>
     <string name="incall_toast_hold">Удержание</string>
     <string name="incall_toast_unhold">Возобновить</string>
-    <string name="dualtalk_tip_accept_disconnect">В случае ответа на данный входящий вызов текущий исходящий вызов будет завершен...</string>
-    <string name="dualtalk_tip_accept_vt_disconnect_voice">В случае ответа на данный входящий вызов VT текущий входящий голосовой вызов будет завершен...</string>
-    <string name="dualtalk_tip_accept_voice_disconnect_vt">В случае ответа на данный входящий голосовой вызов текущий входящий вызов VT будет завершен...</string>
     <string name="onscreenCdmaManageCallext">Управление вызовами</string>
     <string name="onscreenCdmaMergeCallext">Объединение вызовов</string>
     <string name="end_call_because_can_not_hold">Завершить текущий вызов, т.к. его удержаниезапрещено.</string>
@@ -195,6 +192,7 @@
     <string name="call_reject_sum">Управление режимом и списком автоматического отклонения</string>
     <string name="voice_call_reject_mode_title">Режим автоматического отклонения голосовых вызовов</string>
     <string name="voice_call_all_numbers">Режим автоматического отклонения голосовых вызовов: Все номера</string>
+    <string name="voice_mail_dialog_text">Поступила новая голосовая почта%s, получить ее сейчас?</string>
     <string name="video_call_all_numbers">Режим автоматического отклонения видеозвонков: Все номера</string>
     <string name="voice_call_reject_list_title">Список автоматического отклонения голосовых вызовов</string>
     <string name="voice_call_reject_list_sum">Управление списком автоматического отклонения голосовых вызовов</string>
@@ -357,11 +355,7 @@
     <string name="pin_length_indicate">(4-8 цифр)</string>
     <string name="puk_length_indicate">(8 цифр)</string>
     <string name="card_title_incoming_vt_call">Входящий видеозвонок</string>
-    <string name="voice_mail_dialog_text">Поступила новая голосовая почта%s, получить ее сейчас?</string>
     <string name="sip_call_options_title_single_sim">Параметры интернет-вызова</string>
-    <item type="string" name="APKTOOL_DUMMY_0161">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0162">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0163">false</item>
     <string name="callFailed_simError_slotNumber">Нет SIM-карты или ошибка SIM-карты в слоте %d</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
     <string name="preferred_network_mode_scdma_perf_summary">Предпочтительная сеть: TD-SCDMA</string>
@@ -382,9 +376,9 @@
 Следующий период начнется в течение %4$d дн. (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
     <string name="voicemail_settings_for">Настройки (%s)</string>
-    <item type="string" name="APKTOOL_DUMMY_0178">false</item>
     <string name="throttle_time_frame_subtext">"Пройдено %1$d٪ цикла.
 Следующий период начнется в течение %2$d дн. (%3$s)"</string>
+    <string name="voicemail_number_not_set">Не задано</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="emergencyDialerIconLabel">Экстренный вызов</string>
     <string name="phoneIconLabel">Телефон</string>
@@ -758,6 +752,11 @@
     <string name="onscreenHoldText">Удерживать</string>
     <string name="onscreenEndCallText">Завершить</string>
     <string name="onscreenShowDialpadText">Кнопки</string>
+    <string name="menu_more">Еще</string>
+    <string name="menu_record">Записать</string>
+    <string name="recording">Запись, включите громкую связь</string>
+    <string name="menu_recording">Остановить</string>
+    <string name="contactsIconLabel">Контакты</string>
     <string name="onscreenMuteText">Откл. звук</string>
     <string name="onscreenAddCallText">+ вызов</string>
     <string name="onscreenMergeCallsText">Соединить</string>
@@ -808,7 +807,6 @@
     <string name="alert_dialog_dismiss">Закрыть</string>
     <string name="voicemail_provider">Служба</string>
     <string name="voicemail_settings">Настройка</string>
-    <string name="voicemail_number_not_set">Не задано</string>
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="calling_via_template">Звонок через %s</string>
     <string name="contactPhoto">фотография контакта</string>
@@ -976,12 +974,14 @@
     <string name="networkError">Ошибка сети，проверьте настройки сети</string>
     <string name="piano_tone">Звук клавиатуры</string>
     <string name="piano_tone_sum">Звуки пианино при наборе номера</string>
-    <string name="menu_more">Еще</string>
-    <string name="recording">Запись, включите громкую связь</string>
-    <string name="menu_record">Записать</string>
-    <string name="menu_recording">Остановить</string>
-    <string name="contactsIconLabel">Контакты</string>
     <string name="dialpad_tone_dlg_title">Звук клавиатуры</string>
     <string name="dialpad_tone_title">Звук клавиатуры</string>
     <string name="dialpad_tone_default_summary">Звук клавиатуры по умолчанию</string>
+    <string name="dualtalk_tip_accept_disconnect">В случае ответа на данный входящий вызов текущий исходящий вызов будет завершен...</string>
+    <string name="dualtalk_tip_accept_vt_disconnect_voice">В случае ответа на данный входящий вызов VT текущий входящий голосовой вызов будет завершен...</string>
+    <string name="dualtalk_tip_accept_voice_disconnect_vt">В случае ответа на данный входящий голосовой вызов текущий входящий вызов VT будет завершен...</string>
+    <item type="string" name="APKTOOL_DUMMY_0161">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0163">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0178">false</item>
 </resources>

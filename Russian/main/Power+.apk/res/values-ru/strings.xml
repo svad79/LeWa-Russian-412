@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">Power+</string>
+    <string name="app_name">Экономия</string>
     <string name="spm_notification_tag_title">Советы по управлению питанием</string>
     <string name="spm_notification_low_power_title">При уровне батареи ниже, чем %s тел. автоматически переходит в режим энергосбережения</string>
     <string name="spm_notification_sleep_time_title">Автоматический режим сна, энергосбережение во время сна</string>
@@ -127,4 +127,5 @@
     <string name="spm_inti_statusbar_time">Период</string>
     <string name="spm_inti_statusbar_entry">Войти снова</string>
     <string name="spm_inti_statusbar_exit">Временно выйти</string>
+    <string name="spm_trickle_charge_title">Зарядка устройства</string>
 </resources>

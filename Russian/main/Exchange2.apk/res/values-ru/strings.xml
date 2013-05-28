@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wipe_all_messages">Server data corrupted, all messages will be resynchronized</string>
+    <string name="wipe_all_messages">Поврежден сервер данных, все сообщения будут рассинхронизированы</string>
     <string name="exchange_name">Corporate</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="meeting_accepted">Принято: %s</string>

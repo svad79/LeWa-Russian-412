@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="ACCOUNT_TYPE">com.lewa.pond</string>
     <string name="ACCOUNT_LABEL">Lewa Pond</string>
     <string name="app_name">Lewa Pond</string>
@@ -24,6 +24,7 @@
     <string name="error_already_registered">Этот адрес уже зарегистрирован</string>
     <string name="error_internet_connectivity">Вы не подключены к Интернету</string>
     <string name="error_cannot_register_internet_connection">К сожалению, мы не можем начать процесс регистрации. Пожалуйста, подключите и попробуйте еще раз</string>
+    <string name="error_cannot_login_internet_connection">Извини, мы не можем запустить Ваш процесс входа в систему. Пожалуйста, соедините и попробуйте еще раз</string>
     <string name="error_email_invalid">Пожалуйста, введите адрес электронной почты</string>
     <string name="error_captcha_invalid">Проверка кода является недопустимым</string>
     <string name="error_password_invalid">Пароль должен быть не менее 6-20 символов</string>

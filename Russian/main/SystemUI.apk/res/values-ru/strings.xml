@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="status_bar_date_formatter">%2$s</string>
+    <string name="status_bar_date_formatter">"%1$s
+%2$s"</string>
     <string name="gemini_default_sim_always_ask">Всегда спрашивать</string>
     <string name="accessibility_phone_four_bars">4 полоски телефона.</string>
     <string name="sim_switch_tip">Эта SIM-карта задана по умолчанию для \"%s\". Нажмите и протащите строку состояния вниз, чтобы изменить SIM-карту по умолчанию.</string>
@@ -10,7 +11,7 @@
     <string name="voice_call_service">служба голосовых вызовов</string>
     <string name="messages_service">служба сообщений</string>
     <string name="data_connection_service">служба передачи данных</string>
-    <string name="wifi">WLAN</string>
+    <string name="wifi">Wi-Fi</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="mobile">Передача данных</string>
     <string name="gps">GPS</string>
@@ -61,7 +62,6 @@
     <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
     <string name="screenshot_failed_title">Не удалось сохранить скриншот.</string>
     <string name="screenshot_failed_text">Не удалось сохранить скриншот. Возможно, накопители заняты.</string>
-    <item type="string" name="APKTOOL_DUMMY_003b">false</item>
     <string name="app_label">Графический интерфейс системы</string>
     <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
     <string name="status_bar_please_disturb_button">Показать уведомления</string>
@@ -80,8 +80,7 @@
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
     <string name="status_bar_settings_notifications">Уведомления</string>
     <string name="status_bar_settings_battery_meter_format">%d%%</string>
-    <string name="status_bar_network_name_separator">"
-"</string>
+    <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
     <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
@@ -182,19 +181,19 @@
     <string name="title_toggle_sound">Бесшумно</string>
     <string name="title_toggle_vibrator">Вибрация</string>
     <string name="title_toggle_brightness">АвтоЯрк.</string>
-    <string name="title_toggle_sync">Синхр</string>
+    <string name="title_toggle_sync">Синхр.</string>
     <string name="title_toggle_wifiap">Точка доступа Wifi</string>
-    <string name="title_toggle_mobiledata">Передача данных</string>
-    <string name="title_toggle_lockscreen">Блокировка экрана</string>
+    <string name="title_toggle_mobiledata">Интернет</string>
+    <string name="title_toggle_lockscreen">Блок. экрана</string>
     <string name="title_toggle_networkmode">2G/3G</string>
     <string name="title_toggle_autorotate">Вращение</string>
     <string name="title_toggle_airplane">В полете</string>
     <string name="title_toggle_flashlight">Фонарик</string>
     <string name="title_toggle_sleep">Сон</string>
-    <string name="title_toggle_locknow">Блок</string>
+    <string name="title_toggle_locknow">Блок-ка</string>
     <string name="title_toggle_shutdown">Выкл-ние</string>
     <string name="title_toggle_reboot">Перезагруз.</string>
-    <string name="title_toggle_powermanager">Power+</string>
+    <string name="title_toggle_powermanager">Экономия+</string>
     <string name="title_toggle_switchwidgetstyle">Еще</string>
     <string name="title_toggle_screencapture">Скриншот</string>
     <string name="switchwidgetsettings_title">Настройки положения</string>
@@ -228,4 +227,6 @@
     <string name="title_toggle_gemini_data">Инет SIM 1/2</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
     <string name="recent_noapp">Нет запущенных приложений</string>
+    <string name="accessibility_rotation_lock_on_landscape">Экран заблокирован в ландшафтный режим.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Блокировка экрана в портретный режим.</string>
 </resources>

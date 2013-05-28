@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d с. назад</item>
         <item quantity="one">1 секунду назад</item>

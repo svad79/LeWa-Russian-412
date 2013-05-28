@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="app_label">Часы</string>
     <string name="alarm_list_title">Будильник</string>
@@ -70,7 +70,6 @@
     <string name="power_on">Пропустить и включить</string>
     <string name="power_off">Пропустить и выключить</string>
     <string name="repeat_weekdays">Дни недели</string>
-    <string name="stop_watch">Секундомер</string>
     <string name="easter_eggs_string">LewaROM исполнился год!</string>
     <string name="alarm">Будильник</string>
     <string name="world_clock">Часы</string>
@@ -109,7 +108,5 @@
     <string name="world_clock_empty_text">Нажмите кнопку, чтобы добавить будильник</string>
     <string name="add_city">Добавить часы</string>
     <string name="could_not_add_more_lap_time">Извините, максимум 99 записей!</string>
-    <string name="menu_actionbar_selected_items">Были выбраны! %s</string>
-    <string name="menu_multichoice_select_all">Выбрать</string>
-    <string name="menu_multichoice_clear_select">Отменить выбор</string>
+    <string name="stop_watch">Секундомер</string>
 </resources>

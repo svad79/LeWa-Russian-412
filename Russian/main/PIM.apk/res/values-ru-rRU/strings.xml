@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="local_device_account_name">Устройство</string>
     <string name="name_given">Имя</string>
     <string name="name_family">Фамилия</string>

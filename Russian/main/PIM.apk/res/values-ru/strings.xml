@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="config_import_vcard_type">По умолчанию</string>
     <string name="config_export_vcard_type">По умолчанию</string>
     <string name="config_export_dir">/mnt/sdcard</string>
@@ -1309,6 +1309,13 @@
     <string name="deselect_all">Снять все выделения</string>
     <string name="menu_delete_group">Удалить группу</string>
     <string name="menu_add_group_item">Добавить группу</string>
+    <string name="multichoice_delete_group_confirm_message">Вы уверены, что хотите удалить выбранную(ые) группу(ы)?</string>
+    <string name="multichoice_delete_group_confirm_title">Удалить группу(ы)?</string>
+    <string name="multichoice_delete_group_info_confirm_message">Вы уверены, что хотите удалить выбранную(ые) группу(ы) контактов?</string>
+    <string name="multichoice_delete_group_info_confirm_title">Удалить группу(ы) контактов?</string>
+    <string name="add_contact_detail">+ Добавить</string>
+    <string name="exporting_vcard_finished_description">Сохранено в %s。</string>
+    <string name="activity_title_accout_select">Выбор аккаунта</string>
     <string name="dialpad_call">Вызов</string>
     <string name="twelve_hour_time_format">h:mma</string>
     <string name="send_message">Отправить сообщение</string>
@@ -1428,6 +1435,8 @@ In four, the opening of free information service needs to send a message to the 
     <string name="mms_common_smiley">стандартные смайлы</string>
     <string name="mms_char_smiley">символьные смайлы</string>
     <string name="mms_lewa_smiley">lewa смайлы</string>
+    <string name="menu_select_operation_contents">Пожалуста, выберите операцию контента</string>
+    <string name="menu_select_favorite_item_access">Доступ</string>
     <string name="ip_call_settings">Настройки IP вызова</string>
     <string name="ip_prefix_hint">Например 17951,12593,17911</string>
     <string name="ip_prefix_description">IP префикс</string>
@@ -1478,5 +1487,18 @@ In four, the opening of free information service needs to send a message to the 
     <string name="store_in_google_account">Хранить в аккаунте Google</string>
     <string name="position_change_warning">Сохранять только имя и телефон при изменении места хранения на SIM</string>
     <string name="no_content_saved">Информация не сохранена!</string>
-    <string name="menu_call_log_filter">Журнал вызовов</string>	
+    <string name="add_more_info_title">Добавить информацию</string>
+    <string name="no_more_info_add">Нет больше информации для добавления</string>
+    <string name="dial_sim_select_title">Вызов</string>
+    <string name="sms_sim_select_title">Послать SMS</string>
+    <string name="sim_china_mobile">CMCC</string>
+    <string name="sim_china_telecom">CTCC</string>
+    <string name="sim_china_unicom">CUCC</string>
+    <string name="menu_call_log_filter">Фильтр лога вызовов</string>
+    <string name="menu_dialpad_ipcall">IP-вызов</string>
+    <string name="menu_dialpad_editprecall">Редактировать перед вызовом</string>
+    <string name="menu_dialpad_addblacklist">Добавить в Черный список</string>
+    <string name="dlg_title_ippref_notset">Не открывать IP-вызов</string>
+    <string name="dlg_msg_ippref_tosetting">Открыть в IP-вызове!</string>
+    <string name="ipsetting_no_sim_card">Нет SIM-карты, чтобы настроить IP-вызов</string>
 </resources>
