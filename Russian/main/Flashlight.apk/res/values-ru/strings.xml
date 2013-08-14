@@ -2,4 +2,5 @@
 <resources>
     <string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
     <string name="app_name">Фонарик</string>
+    <string name="prompt">Нажмите и удерживайте клавишу ДОМОЙ для быстрого включения фанарика в режиме блокировки экрана</string>
 </resources>

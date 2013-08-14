@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Контактов с номерами телефонов: %d</item>
         <item quantity="one">1 контакт с номером телефона</item>
@@ -69,6 +69,4 @@
         <item quantity="zero">%1$d выбрано</item>
         <item quantity="one">%1$d выбрано</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_0011">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_0012">false</item>
 </resources>

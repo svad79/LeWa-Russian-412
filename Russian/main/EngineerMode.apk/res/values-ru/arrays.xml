@@ -751,9 +751,4 @@
         <item>Felica424</item>
         <item>ISO15693</item>
     </string-array>
-    <string-array name="nvram_wificode_array">
-        <item>1-14ch(JP)</item>
-        <item>1-13ch(EU)</item>
-        <item>1-11ch(US)</item>
-    </string-array>
 </resources>

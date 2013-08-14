@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="download_method">
-        <item>Только WiFi</item>
+        <item>Только Wi-Fi</item>
         <item>Разрешить все</item>
     </string-array>
     <string-array name="download_method_value">
@@ -9,17 +9,17 @@
         <item>1</item>
     </string-array>
     <string-array name="eq_genres">
-        <item>None</item>
-        <item>Common</item>
-        <item>Classical</item>
-        <item>dance</item>
-        <item>folk music</item>
-        <item>heavy metal</item>
-        <item>hip hop</item>
-        <item>jazz</item>
-        <item>Pop</item>
-        <item>Rock</item>
-        <item>Custom</item>
+        <item>Нет</item>
+        <item>Общее</item>
+        <item>Классика</item>
+        <item>Танц. музыка</item>
+        <item>Фолк музыка</item>
+        <item>Тяжелый металл</item>
+        <item>Хип-хоп</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Рок</item>
+        <item>Пользовательский режим</item>
     </string-array>
     <string-array name="bg_choise">
         <item>Мечта</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Синхронизация контактов</string>
     <string name="sync_success">Синхронизация закончена!</string>
     <string name="sync_fail">Ошибка синхронизации, повторите снова!</string>

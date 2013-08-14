@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="error_title">Ошибка</string>
-    <string name="no_market_app">Приложение Маркет не установлено.</string>
+    <string name="no_market_app">Приложение Google Play Маркет не установлено.</string>
     <string name="alert_dialog_ok">ОК</string>
     <string name="app_name">Pico TTS</string>
     <string name="eng_usa_sample">This is an example of speech synthesis in English with Pico.</string>

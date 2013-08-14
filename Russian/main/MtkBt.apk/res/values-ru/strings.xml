@@ -53,7 +53,7 @@
     <string name="bt_oppc_push_toast_sending_file">Послать файл на %1$s</string>
     <string name="bt_oppc_push_toast_sending_files">Послать файлы на %1$s</string>
     <string name="bt_oppc_push_toast_unsupported_uri">Неподдерживаемое содержимое: %1$s</string>
-    <string name="bt_oppc_push_toast_unknown_device">неизвестное устройство</string>
+    <string name="bt_oppc_push_toast_unknown_device">неизвестное устройство</string>	
     <string name="bt_opps_toast_storage_unavailable">Нет SD карты или не хватает места для приема файла.</string>
     <string name="bt_opps_push_toast_invalid_request">Неверный запрос с удаленного устройства</string>
     <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
@@ -134,5 +134,5 @@
     <string name="bt_share_openfile_message_invalid_param">Неправильный файл: %1$s (%2$s)</string>
     <string name="bt_share_openfile_message_unsupported_type">Неподдерживаемый тип файла: %1$s</string>
     <string name="bt_share_openfile_message_resource_not_found">Файл не найден: %1$s</string>
-    <string name="bt_share_openfile_confirm">OK</string>
+    <string name="bt_share_openfile_confirm">OK</string>	
 </resources>

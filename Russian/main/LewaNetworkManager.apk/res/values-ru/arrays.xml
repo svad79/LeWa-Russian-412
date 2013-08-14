@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="iface_wifi">
         <item>wlan+</item>
     </string-array>
     <string-array name="iface_mobile">
         <item>ccmni+</item>
+        <item>rmnet+</item>
     </string-array>
     <string-array name="pref_adjust_interval">
         <item>Нет</item>

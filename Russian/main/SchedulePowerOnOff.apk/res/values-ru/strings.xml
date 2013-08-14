@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="schedule_power_on_off_settings_title">Расписание вкл./выкл. питания</string>
+    <string name="schedule_power_on_off_settings_title">Планировщик питания</string>
     <string name="schedule_power_on_off_time">Время</string>
-    <string name="schedule_power_on_off_repeat">Повторить</string>
+    <string name="schedule_power_on_off_repeat">Дни недели</string>
     <string name="schedule_power_on_off_set">Установка расписания вкл./выкл. питания</string>
-    <string name="schedule_power_on_set">График включения питания</string>
-    <string name="schedule_power_off_set">Установить выключение по расписанию</string>
+    <string name="schedule_power_on_set">График включения телефона</string>
+    <string name="schedule_power_off_set">График выключения телефона</string>
     <string name="enable_schpwr">Включить</string>
     <string name="disable_schpwr">Отключить</string>
     <string name="day">1 день</string>
@@ -15,7 +15,8 @@
     <string name="minute">1 мин.</string>
     <string name="minutes">" %s мин."</string>
     <string name="every_day">каждый день</string>
-    <string name="never">Никогда</string>
+    <string name="never">никогда</string>
+    <string name="day_concat">", "</string>
     <string name="done">Готово</string>
     <string name="revert">Отмена</string>
     <string name="schpwr_shutdown_message">Телефон выключится через %s секунд(ы)</string>

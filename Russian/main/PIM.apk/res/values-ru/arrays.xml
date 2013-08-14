@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string-array name="t9_sort_entries">
         <item>@string/t9_sort_name</item>
         <item>@string/t9_sort_number</item>
@@ -41,7 +41,7 @@
         <item>:-X</item>
         <item>:-D</item>
         <item>o_O</item>
-        <item>&amp;amp;amp;amp;amp;amp;lt;3</item>
+        <item>&amp;amp;amp;amp;amp;lt;3</item>
         <item>x-(</item>
         <item>:-/</item>
         <item>:-I</item>
@@ -172,11 +172,11 @@
     </string-array>
     <string-array name="pref_sms_save_location_choices">
         <item>Телефон</item>
-        <item>SIM карта</item>
+        <item>SIM-карта</item>
     </string-array>
     <string-array name="pref_sms_save_location_values">
         <item>Телефон</item>
-        <item>SIM карта</item>
+        <item>SIM-карта</item>
     </string-array>
     <string-array name="ip_call_location_provinces">
         <item>BeiJing</item>
@@ -349,9 +349,6 @@
         <item>sdcard</item>
         <item>sdcard2</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_002f">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0030">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0031">false</item>
     <string-array name="otherLabels">
         <item>Организация</item>
         <item>Заметка</item>
@@ -379,5 +376,4 @@
         <item>бесшумно</item>
         <item>никогда</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_0036">false</item>
 </resources>

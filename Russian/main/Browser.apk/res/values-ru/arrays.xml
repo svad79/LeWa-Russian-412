@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_op02_text_encoding_choices">
-        <item>Автодетектор</item>
+        <item>Автоопределение</item>
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Юникод (UTF-8)</item>
-        <item>Unicode (UTF-16)</item>
-        <item>Chinese (GB2312)</item>
+        <item>Юникод (UTF-16)</item>
+        <item>Китайская (GB2312)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
         <item>Японская (ISO-2022-JP)</item>
@@ -56,9 +56,9 @@
         <item>Крупный</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
-        <item>Auto detector</item>
+        <item>Автоопределение</item>
         <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
+        <item>Юникод (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
         <item>Японская (ISO-2022-JP)</item>

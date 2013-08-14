@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_name">Перехватчик</string>
     <string name="init">Инициализация базы данных</string>
     <string name="reset">Включение блокировки только ночью</string>
@@ -17,9 +17,9 @@
     <string name="intercept_mode_title">Включить перехват</string>
     <string name="intercept_mode_summary">Отклонять телефонные звонки и фильтровать сообщения в указанное время в соответствии с правилами установки</string>
     <string name="intercept_rule">Настройки перехвата</string>
-    <string name="intercept_time">Настройка врем. блокир.</string>
+    <string name="intercept_time">Настройка времени блокирования</string>
     <string name="intercept_notification">Уведомления</string>
-    <string name="intercept_interruptPhone">Перехватывать беспокоящие телефонные звонки</string>
+    <string name="intercept_interruptPhone">Перехват беспокоящих звонков</string>
     <string name="intercept_interruptPhone_summary">Перехватывать звонки с неизвестных номеров</string>
     <string name="intercept_time_allday">Круглосуточно</string>
     <string name="intercept_time_settingtime">Настройки интервала</string>
@@ -32,11 +32,11 @@
     <string name="intercept_nocontacts">Неизвестные</string>
     <string name="intercept_no">Неизвестные</string>
     <string name="intercept_allcall">Все номера</string>
-    <string name="intercept_blacksmart_summary">Черный список, SMS спам, телефонный спам</string>
-    <string name="intercept_blackname_summary">Отклонять звонки и сообщения из черного списка</string>
-    <string name="intercept_whitelist_summary">Отклонять звонки и сообщения не включенные в белый список</string>
-    <string name="intercept_nocontacts_summary">Отклонять вызовы и сообщения не из адрессной книги</string>
-    <string name="intercept_allcall_summary">Отклонять все вызовы и сообщения</string>
+    <string name="intercept_blacksmart_summary">Черный список, SMS-спам, телеф. спам</string>
+    <string name="intercept_blackname_summary">Отклонять звонки и SMS из черного списка</string>
+    <string name="intercept_whitelist_summary">Отклонять звонки и SMS, не включенные в белый список</string>
+    <string name="intercept_nocontacts_summary">Отклонять вызовы и SMS не из адресной книги</string>
+    <string name="intercept_allcall_summary">Отклонять все вызовы и SMS</string>
     <string name="intercept_blockcall">Перехватывать вызовы</string>
     <string name="intercept_blockmsg">Перехватывать сообщения</string>
     <string name="intercept_block_msgAndcall">Перехватывать вызовы и сообщения</string>
@@ -163,7 +163,7 @@
     <string name="add2white_already_in_black">Вы хотите удалить черный список. Подтвердить?</string>
     <string name="delete_selected_item">Удалить выделенные номера?</string>
     <string name="dialog_tip">Советы</string>
-    <string name="select">selected</string>
+    <string name="select">выбран</string>
     <string name="modify_black_name">Изменить имя (ЧС)</string>
     <string name="modify_white_name">Изменить имя (БС)</string>
     <string name="confirm_delete_select_msg_conversion">Подтвердите удаление %s цепочки</string>
@@ -196,8 +196,8 @@
     <string name="recover">Восстановить</string>
     <string name="addblack_name">Добавить имя в Черный список</string>
     <string name="addWhite_name">Добавить имя в Белый список</string>
-    <string name="update_title">Обновление интеллектуальной библиотеки перехватчика</string>
-    <string name="update_message">В настоящее время смарт-библиотека перехватчика устарела,нажмите ОК, чтобы обновить</string>
+    <string name="update_title">Интеллектуальная библиотека</string>
+    <string name="update_message">В настоящее время интеллектуальная библиотека перехватчика устарела,нажмите ОК, чтобы обновить</string>
     <string name="confirm">Подтвердить</string>
     <string name="cancel">Отмена</string>
     <string name="noneedToUpdate">Интеллектуальная библиотека перехватчика актуальна, нет необходимости ее обновления</string>
@@ -224,4 +224,11 @@
     <string name="number_fragment_title">Номера</string>
     <string name="interceptinfo_fragment_title">Информация</string>
     <string name="setting_fragment_title">Настройки</string>
+    <string name="update_tone">Внимание!</string>
+    <string name="update_note_version">Текущая база библиотеки %s устарела!</string>
+    <string name="update_notice">Пожалуйста, обновитесь до последней версии:</string>
+    <string name="update_note_size">Размер обновления: %s</string>
+    <string name="log_today">Сегодня</string>
+    <string name="log_yesterday">Вчера</string>
+    <string name="log_beforeyesterday">Ранее</string>
 </resources>
