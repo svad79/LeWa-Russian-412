@@ -242,9 +242,9 @@
     <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим полета</string>
     <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон перейдет в режим полета. Все беспроводные соединения будут отключены. Продолжить?</string>
     <string name="gemini_3g_indic">3G</string>
-    <string name="gemini_sim_info_editor_name">Изменить имя SIM-карты</string>
+    <string name="gemini_sim_info_editor_name">Изменить название SIM-карты</string>
     <string name="gemini_sim_info_editor_name_dup_title">Сбой сохранения</string>
-    <string name="gemini_sim_info_editor_name_dup_msg">Такое имя SIM-карты уже существует</string>
+    <string name="gemini_sim_info_editor_name_dup_msg">Такое название SIM-карты уже существует</string>
     <string name="gemini_sim_info_editor_number">Введите номер телефона</string>
     <string name="gemini_sim_info_editor_color">Установить цвет фона</string>
     <string name="gemini_sim_info_editor_number_display_format">Отобразить номера</string>
@@ -255,7 +255,7 @@
     <string name="gemini_3g_modem_switch_confirm_message">К этой SIM-карте будут также подключены услуги 3G. Продолжить? Убедитесь, что выбранная SIM-карта поддерживает услуги 3G.</string>
     <string name="gemini_3g_disable_warning">В выбранной SIM-карте отсутствует поддержка услуги 3G. Это может привести к замедлению загрузки данных. Параметры услуги 3G можно изменить в меню Параметры > Беспроводные средства и сети > Сети мобильной связи.</string>
     <string name="gemini_3g_disable_warning_cu">В выбранной SIM-карте отсутствует поддержка услуги 3G. Это может привести к замедлению загрузки данных. Параметры услуги 3G можно изменить в меню Параметры > Беспроводные средства и сети > Управление SIM-картами.</string>
-    <string name="gemini_wap_push_permission_head">После включения службы Auto-push пользователь может принимать рассылочные сообщения, подвергая опасности работающие приложения и создавая трафик данных. Обычно, служба Auto-push включает уведомления об эл. почте, управление устройствами, служебную индикацию, загрузку службы и обеспечение рассылки.</string>
+    <string name="gemini_wap_push_permission_head">После включения службы Auto-push пользователь может принимать рассылочные сообщения, подвергая опасности работающие приложения и увеличивая трафик данных. Обычно, служба Auto-push включает уведомления об эл. почте, управление устройствами, служебную индикацию, загрузку службы и обеспечение рассылки.</string>
     <string name="gemini_wap_push_permission_tail">Принять это соглашение?</string>
     <string name="gemini_wap_push_permission_title">Соглашение службы Auto-push</string>
     <string name="gemini_wap_push_permission">Служба Auto-push</string>
@@ -493,11 +493,11 @@
     <string name="sms_over_ims_off">Выключить SMS через IMS</string>
     <string name="ims_reg_required_on">Включить требование IMS-регистрации</string>
     <string name="ims_reg_required_off">Выключить требование IMS-регистрации</string>
-    <string name="lte_ram_dump_on">Включить дамп ОЗУ оконечного оборудования линии передачи данных</string>
-    <string name="lte_ram_dump_off">Выключить дамп ОЗУ оконечного оборудования линии передачи данных</string>
-    <string name="radioInfo_menu_viewADN">Просмотр адресной книги SIM-карты</string>
-    <string name="radioInfo_menu_viewFDN">Просмотр номеров фиксированного набора</string>
-    <string name="radioInfo_menu_viewSDN">Просмотр номеров для набора сервисных служб</string>
+    <string name="lte_ram_dump_on">Включить дамп ОЗУ линии передачи данных</string>
+    <string name="lte_ram_dump_off">Выключить дамп ОЗУ линии передачи данных</string>
+    <string name="radioInfo_menu_viewADN">Адресная книга SIM-карты</string>
+    <string name="radioInfo_menu_viewFDN">Номера фиксированного набора</string>
+    <string name="radioInfo_menu_viewSDN">Номера для набора сервисных служб</string>
     <string name="radioInfo_menu_getPDP">Получить список PDP</string>
     <string name="radioInfo_service_in">Работает</string>
     <string name="radioInfo_service_out">Не работает</string>

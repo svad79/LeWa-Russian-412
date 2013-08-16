@@ -213,6 +213,7 @@
     <string name="preparing_sd">Подготовка SD-карты...</string>
     <string name="access_sd_fail">Нет доступа к SD-карте</string>
     <string name="confirm_restore_message">Восстановить настройки камеры по умолчанию?</string>
+    <string name="confirm_restore_video_message">Вы хотите восстановить настройки видео по умолчанию?</string>
     <string name="review_play">Воспроизвести</string>
     <string name="review_cancel">ОТМЕНА</string>
     <string name="review_ok">ГОТОВО</string>
@@ -431,6 +432,7 @@
     <string name="duration_timer_format_with_hour">%1$d:%2$d:%3$d</string>
     <string name="duration_timer_format_without_hour">%1$d:%2$d</string>
     <string name="image">Фото</string>
+    <string name="photo">Фото</string>
     <string name="video">Видео</string>
     <string name="add_image">Добавить изображение или видео</string>
     <string name="add_success">Добавлено успешно</string>
@@ -446,6 +448,8 @@
     <string name="day_format">dd</string>
     <string name="message_sd_card_min_size">Недостаточно места на SD-карте</string>
     <string name="adding">Добавление</string>
+    <string name="setascontact_photo">Установить как фото контакта</string>
+    <string name="setas_wallpaper">Установить как обои</string>
     <string name="audio_not_supported">Не удалось проиграть аудио.</string>
     <string name="can_not_trim">Возникла ошибка, видео не может быть обрезано</string>
     <string name="settings">Настройки</string>
@@ -761,4 +765,7 @@
     <string name="f360_Retro_Yellow_p">C360_Retro_Yellow</string>
     <string name="f360_HDR_Soft_p">C360_HDR_Soft</string>
     <string name="f360_BW_Normal_p">C360_BW_Normal</string>
+    <string name="set_as_wallpaper">Обои</string>
+    <string name="set_as_lockscreen">Обои локскрина</string>
+    <string name="set_as_both">Оба</string>
 </resources>

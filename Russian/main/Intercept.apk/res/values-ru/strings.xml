@@ -60,7 +60,7 @@
     <string name="block_num_out_of_all_0">Перехватить следующие контакты и белый список</string>
     <string name="block_setting_start_time">07:00</string>
     <string name="block_setting_end_time">23:00</string>
-    <string name="intercept_setting_falied">Настройка не удалась, пожалуйста настройте снова</string>
+    <string name="intercept_setting_falied">Настройка не удалась, пожалуйста, настройте снова</string>
     <string name="intercept_delete_blockname">Удалить контакт</string>
     <string name="intercept_delete_msg">Удалить сообщение</string>
     <string name="intercept_delete_call">Удалить вызов</string>
@@ -88,7 +88,7 @@
     <string name="app_import_black_name">Добавить в черный список</string>
     <string name="app_import_white_name">Добавить в белый список</string>
     <string name="app_intercept_msg_delete_context">Удалить всю цепочку сообщений</string>
-    <string name="app_intercept_msg_single_delete_context">Удалит сообщение</string>
+    <string name="app_intercept_msg_single_delete_context">Удалить сообщение</string>
     <string name="app_intercept_call_delete_context">Будут удалены все записи вызовов</string>
     <string name="app_intercept_delete_title">Удаление</string>
     <string name="intercept_call_data">Отфильтровано:вызов %s</string>
@@ -194,8 +194,8 @@
     <string name="setting">Настройки</string>
     <string name="delete">Удалить</string>
     <string name="recover">Восстановить</string>
-    <string name="addblack_name">Добавить имя в Черный список</string>
-    <string name="addWhite_name">Добавить имя в Белый список</string>
+    <string name="addblack_name">Добавить в черный список</string>
+    <string name="addWhite_name">Добавить в белый список</string>
     <string name="update_title">Интеллектуальная библиотека</string>
     <string name="update_message">В настоящее время интеллектуальная библиотека перехватчика устарела,нажмите ОК, чтобы обновить</string>
     <string name="confirm">Подтвердить</string>
@@ -207,7 +207,7 @@
     <string name="noselectBlockMode">Не выбран блокирующий режим, выберите перехват вызова или перехват сообщений</string>
     <string name="selectBlockModePromt">Необходимо выбрать перехват вызова или перехват сообщений</string>
     <string name="networkError">Ошибка сети, проверить настройки сети</string>
-    <string name="logo_notice">Тех. поддержка</string>
+    <string name="logo_notice">Тех. поддержка от Tencent Mobile Manager</string>
     <string name="intelligence_intercept_library_version">Версия библиотеки интеллектуального перехватчика:</string>
     <string name="add_black_number_prefix_prompt">Подсказка: будут перехватываться все номера, начинающиеся с указанного префикса</string>
     <string name="number_list">СПИСОК НОМЕРОВ</string>

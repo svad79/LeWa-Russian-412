@@ -19,4 +19,5 @@
     <string name="slot_finish">Закрыть</string>
     <string name="longclick_title">Запрос</string>
     <string name="webview_loading">Страница загружается, ожидайте ...</string>
+    <string name="sd_error">Ошибка карты памяти</string>
 </resources>

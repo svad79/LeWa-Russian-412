@@ -50,7 +50,7 @@
     <string name="permission_location_sub">получать Ваше местоположение</string>
     <string name="permission_phone_id">ID телефона</string>
     <string name="permission_phone_id_sub">получать номер телефона и IMEI</string>
-    <string name="permission_root">Суперпользователь</string>
+    <string name="permission_root">права Суперпользователя</string>
     <string name="permission_root_sub">получать права Суперпользователя</string>
     <string name="root_title">Права Суперпользователя</string>
     <string name="root_dialog_title">Разрешить Суперпользователя</string>

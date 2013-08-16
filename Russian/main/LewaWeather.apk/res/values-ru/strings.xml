@@ -10,7 +10,7 @@
     <string name="tianhou">дня(ей) после</string>
     <string name="nianhou">лет после</string>
     <string name="zhou">Неделя</string>
-    <string name="weather_no_data">Временно нет данных</string>
+    <string name="weather_no_data">Нет данных</string>
     <string name="unknown">неизв.</string>
     <string name="mon">пн</string>
     <string name="tue">вт</string>
@@ -25,7 +25,7 @@
     <string name="choose_provience">Выбор провинции</string>
     <string name="choose_city">Выбор города</string>
     <string name="select_city">Нажмите для установки</string>
-    <string name="publish_time">Показ времени</string>
+    <string name="publish_time">Обновление</string>
     <string name="shidu">влажность</string>
     <string name="nodata">Временно нет данных</string>
     <string name="temporary">Временно</string>
@@ -44,8 +44,7 @@
     <string name="entercity">Пожалуйста, введите название города</string>
     <string name="sorry_not_insert">Извините, но больше нельзя добавить городов</string>
     <string name="location_wait">Определение местоположения, ожидайте...</string>
-    <string name="widget_transparent">Прозрачность погоды</string>
-
+    <string name="widget_transparent">Погода Lewa (прозр.)</string>
     <string name="zhouyi">понедельник</string>
     <string name="zhouer">вторник</string>
     <string name="zhousan">среда</string>

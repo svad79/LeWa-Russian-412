@@ -92,7 +92,7 @@
     <string name="systemapp_change">Глобальные темы</string>
     <string name="some_live_wallpaper">Качественные обои высокой четкости</string>
     <string name="live_wallpaper">Живые обои</string>
-    <string name="theme_not_exist">Сеть занята, пожалуйста, пересканируйте.</string>
+    <string name="theme_not_exist">Сеть занята, пожалуйста, пересканируйте</string>
     <string name="data_no_size">маленький размер, применение шрифта неудалось!</string>
     <string name="onekey_wallpaper">Быстрые обои</string>
     <string name="onekey_font">Быстрый шрифт</string>
@@ -115,7 +115,7 @@
     <string name="deskwallpaper_delete_success">обои рабочего стола удалены</string>
     <string name="lockwallpaper_delete_success">обои экрана блокировки удалены</string>
     <string name="theme_loading_more">загрузить еще...</string>
-    <string name="theme_loading_more_fail">загрузка не удалась</string>
+    <string name="theme_loading_more_fail">Загрузка не удалась</string>
     <string name="theme_name_default">По умолчанию</string>
     <string name="style_appearance_name">lewadefault</string>
     <string name="author">Lewa OS</string>
